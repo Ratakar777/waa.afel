@@ -1,0 +1,412 @@
+Uri: https://waa.afel.xyz/
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\index.htm
+Content Type: text/html
+
+Uri: https://waa.afel.xyz/favicon.ico
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://waa.afel.xyz/images/waalandingbg-2.webp
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\images\waalandingbg-2.webp
+Content Type: image/webp
+
+Uri: https://waa.afel.xyz/pfp-generator
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\pfp-generator.html
+Content Type: text/html
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay1.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay1.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay1-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay10.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay10.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay10.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay10-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay11.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay11.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay11.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay11-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay12.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay12.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay12.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay12-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay13.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay13.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay13.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay13-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay14.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay14.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay14.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay14-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay15.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay15.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay15.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay15-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay16.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay16.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay16.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay16-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay17.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay17.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay17.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay17-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay18.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay18.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay18.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay18-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay19.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay19.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay19.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay19-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay2.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay2.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay2.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay2-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay20.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay20.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay20.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay20-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay21.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay21.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay21.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay21-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay22.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay22.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay22.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay22-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay23.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay23.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay23.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay23-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay24.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay24.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay24.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay24-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay25.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay25.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay25.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay25-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay26.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay26.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay26.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay26-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay27.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay27.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay27.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay27-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay28.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay28.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay28.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay28-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay29.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay29.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay29.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay29-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay3.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay3.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay3.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay3-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay30.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay30.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay30.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay30-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay31.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay31.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay31.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay31-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay32.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay32.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay32.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay32-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay33.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay33.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay33.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay33-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay34.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay34.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay34.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay34-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay35.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay35.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay35.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay35-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay4.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay4.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay4.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay4-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay5.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay5.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay5.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay5-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay6.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay6.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay6.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay6-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay7.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay7.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay7.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay7-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay8.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay8.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay8.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay8-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay9.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay9.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2Foverlays%2Foverlay9.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\overlay9-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdextools.cd6eb77d.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\dextools-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fdextools.cd6eb77d.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\dextools.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flizardmascot.5b9ab480.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\lizardmascot.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flizardmascot.5b9ab480.png&w=96&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\lizardmascot-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaacoinlogo.b8b79bdd.png&w=128&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\waacoinlogo.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaacoinlogo.b8b79bdd.png&w=256&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\waacoinlogo-1.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaacoinlogo.b8b79bdd.png&w=64&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\waacoinlogo-2.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fwaacoinlogo.b8b79bdd.png&w=96&q=75
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\waacoinlogo-3.png
+Content Type: image/png
+
+Uri: https://waa.afel.xyz/_next/static/chunks/117-4143acf1e880ac11.js
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\chunks\117-4143acf1e880ac11.js
+Content Type: application/javascript
+
+Uri: https://waa.afel.xyz/_next/static/chunks/609-3cf1e7b85d2e6ce6.js
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\chunks\609-3cf1e7b85d2e6ce6.js
+Content Type: application/javascript
+
+Uri: https://waa.afel.xyz/_next/static/chunks/app/layout-588427c04e5df942.js
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\chunks\app\layout-588427c04e5df942.js
+Content Type: application/javascript
+
+Uri: https://waa.afel.xyz/_next/static/chunks/app/page-8f2b3afeeb427cb8.js
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\chunks\app\page-8f2b3afeeb427cb8.js
+Content Type: application/javascript
+
+Uri: https://waa.afel.xyz/_next/static/chunks/app/pfp-generator/page-9ce5ace8612aae83.js
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\chunks\app\pfp-generator\page-9ce5ace8612aae83.js
+Content Type: application/javascript
+
+Uri: https://waa.afel.xyz/_next/static/chunks/fd9d1056-e31470c4d7570ea8.js
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\chunks\fd9d1056-e31470c4d7570ea8.js
+Content Type: application/javascript
+
+Uri: https://waa.afel.xyz/_next/static/chunks/main-app-44cb40f2e124344a.js
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\chunks\main-app-44cb40f2e124344a.js
+Content Type: application/javascript
+
+Uri: https://waa.afel.xyz/_next/static/chunks/polyfills-42372ed130431b0a.js
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\chunks\polyfills-42372ed130431b0a.js
+Content Type: application/javascript
+
+Uri: https://waa.afel.xyz/_next/static/chunks/webpack-78029877d639f2f4.js
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\chunks\webpack-78029877d639f2f4.js
+Content Type: application/javascript
+
+Uri: https://waa.afel.xyz/_next/static/css/4d9594fb7d06f2e9.css
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\css\4d9594fb7d06f2e9.css
+Content Type: text/css
+
+Uri: https://waa.afel.xyz/_next/static/media/3455c48fb80e1a54-s.p.otf
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\media\3455c48fb80e1a54-s.p.otf
+Content Type: font/otf
+
+Uri: https://waa.afel.xyz/_next/static/media/463dafcda517f24f-s.p.woff
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\media\463dafcda517f24f-s.p.woff
+Content Type: font/woff
+
+Uri: https://waa.afel.xyz/_next/static/media/5813d747282be83f-s.p.otf
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\media\5813d747282be83f-s.p.otf
+Content Type: font/otf
+
+Uri: https://waa.afel.xyz/_next/static/media/6288fee008efe441-s.p.otf
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\media\6288fee008efe441-s.p.otf
+Content Type: font/otf
+
+Uri: https://waa.afel.xyz/_next/static/media/81d4d81f8abe642b-s.p.otf
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\media\81d4d81f8abe642b-s.p.otf
+Content Type: font/otf
+
+Uri: https://waa.afel.xyz/_next/static/media/aa36a63ec463c42b-s.p.otf
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\media\aa36a63ec463c42b-s.p.otf
+Content Type: font/otf
+
+Uri: https://waa.afel.xyz/_next/static/media/birdicon.d28f4375.svg
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\media\birdicon.d28f4375.svg
+Content Type: image/svg+xml
+
+Uri: https://waa.afel.xyz/_next/static/media/d08adab50e33fdff-s.p.otf
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\media\d08adab50e33fdff-s.p.otf
+Content Type: font/otf
+
+Uri: https://waa.afel.xyz/_next/static/media/f7edeef4fa678e52-s.p.otf
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\media\f7edeef4fa678e52-s.p.otf
+Content Type: font/otf
+
+Uri: https://waa.afel.xyz/_next/static/media/telegramicon.90e527a9.svg
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\media\telegramicon.90e527a9.svg
+Content Type: image/svg+xml
+
+Uri: https://waa.afel.xyz/_next/static/media/xicon.2234768c.svg
+File Name: C:\work\Downloaded Web Sites\15.01\waa.afel.xyz\_next\static\media\xicon.2234768c.svg
+Content Type: image/svg+xml
+
